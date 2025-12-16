@@ -2,6 +2,8 @@
 
 A modern, smart shopping list application designed to streamline your grocery shopping experience. Built with the **MERN Stack** (MongoDB, Express, React, Node.js) and styled with a professional Glassmorphism UI.
 
+### 🌐 [Live Demo](https://carrt-x.vercel.app/)
+
 ## 🚀 Features
 
 -   **Smart Organization**: Create and manage categories for your shopping items.
